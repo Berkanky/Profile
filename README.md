@@ -1,5 +1,5 @@
 # 💫 About Me:
-Istanbul Medipol Universitt<br> || MEVN stack Web Developer<br><br>Javascript || Node || VUE || Python <br><br><br>
+Istanbul Medipol University<br> || MEVN stack Web Developer<br><br>Javascript || Node || VUE || Python <br><br><br>
 
 
 ## 🌐 Socials:
